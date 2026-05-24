@@ -50,7 +50,7 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 3. **Click Follow**: One-click to start copying
 4. **View Positions**: See your copied positions in "My Positions"
 
-> **Personal note**: I find it useful to sort providers by win rate first, then cross-check their drawdown before following. Avoid providers with fewer than 20 signals — not enough history to judge.
+> **Personal note**: I find it useful to sort providers by win rate first, then cross-check their drawdown before following. Avoid providers with fewer than 20 signals — not enough history to judge. Also worth checking how long they've been active; a high win rate over just 2 weeks is much less meaningful than one sustained over 2+ months.
 
 ### Understanding Positions
 
