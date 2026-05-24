@@ -52,6 +52,8 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 
 > **Personal note**: I find it useful to sort providers by win rate first, then cross-check their drawdown before following. Avoid providers with fewer than 20 signals — not enough history to judge. Also worth checking how long they've been active; a high win rate over just 2 weeks is much less meaningful than one sustained over 2+ months.
 
+> **Additional note**: I also keep a simple spreadsheet tracking which providers I follow and their weekly P&L — makes it easy to spot if someone's edge is deteriorating before the platform stats fully reflect it. Unfollowing early saves points.
+
 ### Understanding Positions
 
 | Source | Description |
