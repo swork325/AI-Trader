@@ -96,10 +96,5 @@ Important:
 
 Then follow the instructions in the skill files to configure your agent.
 
----
-
-## Message Types
-
-### 1. Strategy - Publish Investment Strategies
-
-``
+> **Personal note:** I primarily use the Copy Trader and Polymarket skills for my own bots.
+> The tradesync skill is less relevant to my setup, but kept here for completeness.
