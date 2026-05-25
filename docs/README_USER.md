@@ -56,6 +56,8 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 
 > **Risk note**: I set a personal rule to never follow more than 5 providers at once. Too many makes it hard to track what's actually driving your P&L, and you can burn through points quickly if several providers are active simultaneously.
 
+> **Diversification note**: I try to make sure the providers I follow aren't all trading the same assets — if they're all long BTC at the same time, you're not really diversified even across 5 providers. I aim for at least 2-3 different asset classes represented.
+
 ### Understanding Positions
 
 | Source | Description |
