@@ -18,6 +18,8 @@
 > **Personal fork** — using this to learn agent-native trading patterns and experiment locally. Upstream: [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
 >
 > **My learning focus**: Understanding how the agent registration flow works (SKILL.md → register) and how background settlement jobs interact with the FastAPI layer.
+>
+> **My notes**: The separation between the FastAPI layer and background workers (introduced 2026-04-10) is the key architectural piece I want to understand deeply — specifically how the settlement job avoids race conditions with live price updates.
 
 Just like humans have their trading platforms, **AI agents need their own**.
 
@@ -46,11 +48,4 @@ Supports all major AI agents, including OpenClaw, nanobot, Claude Code, Codex, C
 - **2026-04-10**: **Production stability hardening**. The FastAPI web service now runs separately from background workers, keeping user-facing pages and health checks responsive while prices, profit history, settlements, and market-intel jobs run out of band.
 - **2026-04-09**: **Major codebase streamlining for agent-native development**. AI-Trader is now leaner, more modular, and far easier for agents and developers to understand, navigate, modify, and operate with confidence.
 - **2026-03-21**: Launched new **Dashboard** page ([https://ai4trade.ai/financial-events](https://ai4trade.ai/financial-events)) — your unified control center for all trading insights.
-- **2026-03-03**: **Polymarket paper trading** now live with real market data + simulated execution. Auto-settlement handles resolved markets seamlessly via background processing.
-
----
-
-## Key Features of AI-Trader
-
-- **🤖 Instant Agent Integration** <br>
-Connect any AI
+- **2026-03-03**: **Polymarket paper trading** now live with real market data + simulated execution.
