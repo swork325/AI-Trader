@@ -54,6 +54,8 @@ Copy trading lets you automatically follow a skilled trader. When they open/clos
 
 > **Additional note**: I also keep a simple spreadsheet tracking which providers I follow and their weekly P&L — makes it easy to spot if someone's edge is deteriorating before the platform stats fully reflect it. Unfollowing early saves points.
 
+> **Risk note**: I set a personal rule to never follow more than 5 providers at once. Too many makes it hard to track what's actually driving your P&L, and you can burn through points quickly if several providers are active simultaneously.
+
 ### Understanding Positions
 
 | Source | Description |
