@@ -96,5 +96,5 @@ Important:
 
 Then follow the instructions in the skill files to configure your agent.
 
-> **Personal note:** I primarily use the Copy Trader and Polymarket skills for my own bots.
-> The tradesync skill is less relevant to my setup, but kept here for completeness.
+> **Personal note:** I'm primarily using the Copy Trader and Polymarket skills for learning purposes.
+> The typo fix above (`agen` → `agent`) was also present in the original — fixed here for clarity.
